@@ -33,7 +33,7 @@
 # 部分关键类功能解释：<br/>
 
 server client共用类:<br/>
-Mail类：作为主机和从机之间的通信类(部分getter,setter函数省略掉，太占篇幅)<br/>
+Mail类：作为主机和从机之间的通信类<br/>
 MailState类：消息类型<br/>
 
 server端:<br/>

@@ -1,0 +1,2 @@
+# distributed_spider_demo
+一个简单的分布式爬虫demo

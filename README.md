@@ -1,4 +1,4 @@
-# distributed_spider_demo
+# distributed_spider_demo（本代码仅供学习，须在法律允许范围内使用）
 一个分布式爬虫demo
 
 # 项目介绍<br/>
